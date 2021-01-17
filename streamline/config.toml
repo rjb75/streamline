@@ -1,0 +1,10 @@
+baseURL = "https://sline.tech/"
+languageCode = "en-us"
+title = "Streamline"
+theme = "SimpleIntro"
+
+[params]
+    mainbg = "https://picsum.photos/1920/1080"
+    name = "Streamline"
+    mainTitle = "Streamlineo"
+    mainText = "Ever wanted to go hands-free with your presentations?"
