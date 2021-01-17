@@ -1,18 +1,18 @@
 [[list]]
     name = "Feedback"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
+    icon = "./exclaim.png"
     text = """
         Get instant feedback based on the speed of your talking
     """
 [[list]]
     name = "Assistant"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
+    icon = "./girl.png"
     text = """
         Use your voice to advance slides
     """
 [[list]]
     name = "Customization"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+    icon = "./wand.png"
     text = """
         Customize the slide transition word to anything you want
     """
