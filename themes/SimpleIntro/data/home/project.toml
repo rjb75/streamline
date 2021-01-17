@@ -1,0 +1,12 @@
+[[list]]
+    title = "Promotional Video"
+    image = "https://picsum.photos/400/200"
+    text = """
+        View a live demonstration at https://www.youtube.com/watch?v=e6bP4bH4x30
+    """
+[[list]]
+    title = "Devpost"
+    image = "https://picsum.photos/400/200"
+    text = """
+        View our Devpost submission at 
+    """
